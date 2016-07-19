@@ -1,2 +1,27 @@
-# syllabus
+# Robotics for Computer Science Syllabus
 Syllabus of the Robotics Course
+
+
+## Part 1: Lower level control
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+## Part 2: Autonomous Robotics
+
+1. Agents, problem representation and search
+2. Adversarial search?
+3. Probabilistic Reasoning
+4. Hidden Markov Models and Kalman Filters?
+5. Project Presentation?
+
+## Part 3: Vision and Sensoring
+
+1. 
+2. 
+3. 
+4. 
+5. 
