@@ -20,8 +20,8 @@ Syllabus of the Robotics Course
 
 ## Part 3: Vision and Sensoring
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Intro to Machine Learning for Vision
+2. Neural nets and Backpropagation
+3. ConvNets
+4. Project involving ConvNets and available Robots?
+5. ...
