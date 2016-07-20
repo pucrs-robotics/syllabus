@@ -1,7 +1,6 @@
 # Robotics for Computer Science Syllabus
 Syllabus of the Robotics Course
 
-
 ## Part 1: Lower level control
 
 1. 
@@ -25,3 +24,12 @@ Syllabus of the Robotics Course
 3. ConvNets
 4. Project involving ConvNets and available Robots?
 5. ...
+
+## Resources
+
+[IEEE Robotics Courseware](http://www.roboticscourseware.org/courses.html) 
+
+## To Dos
+
+- [ ] Schedule regular meetings to discuss the course
+- [ ] Settle on the actual schedule of classes
